@@ -61,7 +61,8 @@ The system consists of the following components:
 ## **Demo**
 ![image](https://github.com/user-attachments/assets/03aea71a-5bc5-46a4-b589-770c377b2e2c)
 ![image](https://github.com/user-attachments/assets/fdd37b04-c54b-4fb5-b501-ce00acaadebd)
-![image](https://github.com/user-attachments/assets/2661d729-0ce1-4fe7-9c35-d71f7fdbea0c)
+![WhatsApp Image 2024-12-05 at 20 28 10_2f5e4130](https://github.com/user-attachments/assets/339198fa-f143-401f-abbb-4ca48636c219)
+
 
 
 https://drive.google.com/file/d/1UNZhGZz53yvH8F7ONehVdKg5tl4g-9RI/view?usp=sharing
