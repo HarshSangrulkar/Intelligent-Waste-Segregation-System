@@ -9,10 +9,7 @@
 3. [Technologies Used](#technologies-used)  
 4. [System Architecture](#system-architecture)  
 5. [Installation and Usage](#installation-and-usage)  
-6. [Results and Performance](#results-and-performance)  
-7. [Future Scope](#future-scope)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
+6. [Demo](#demo)   
 
 ---
 
@@ -60,4 +57,12 @@ The system consists of the following components:
 - Python 3.8 or higher  
 - Virtual environment tools (e.g., venv, conda)  
 - Required libraries (TensorFlow, Keras, OpenCV, Flask)  
+
+##**Demo**
+![image](https://github.com/user-attachments/assets/03aea71a-5bc5-46a4-b589-770c377b2e2c)
+![image](https://github.com/user-attachments/assets/fdd37b04-c54b-4fb5-b501-ce00acaadebd)
+![image](https://github.com/user-attachments/assets/2661d729-0ce1-4fe7-9c35-d71f7fdbea0c)
+
+
+https://drive.google.com/file/d/1UNZhGZz53yvH8F7ONehVdKg5tl4g-9RI/view?usp=sharing
 
