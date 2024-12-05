@@ -58,7 +58,7 @@ The system consists of the following components:
 - Virtual environment tools (e.g., venv, conda)  
 - Required libraries (TensorFlow, Keras, OpenCV, Flask)  
 
-##**Demo**
+## **Demo**
 ![image](https://github.com/user-attachments/assets/03aea71a-5bc5-46a4-b589-770c377b2e2c)
 ![image](https://github.com/user-attachments/assets/fdd37b04-c54b-4fb5-b501-ce00acaadebd)
 ![image](https://github.com/user-attachments/assets/2661d729-0ce1-4fe7-9c35-d71f7fdbea0c)
